@@ -6,4 +6,4 @@ Day 1:
 2. LeetCode problem on finding unique string characters.
 3. Finding Panagrams in a String
 4. To find Anagrams in a string
-5. 
+5. to count characters in a string
